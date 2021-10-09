@@ -1,3 +1,5 @@
+<img src="images/logo.png" width="300">
+
 # cnskunkworks-terragrunt
 
 ## Requirements
